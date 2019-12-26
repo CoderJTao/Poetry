@@ -1,0 +1,6 @@
+framework module Pods_TodayPoetryTests {
+  umbrella header "Pods-TodayPoetryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
